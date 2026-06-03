@@ -1,0 +1,4 @@
+import { useEffect, useState } from 'react';
+import { type OpenMeteoResponse } from '../types/DashboardTypes';
+
+export default function useFetchData() : OpenMeteoResponse { }
